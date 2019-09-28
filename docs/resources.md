@@ -6,7 +6,7 @@ layout: tabbed-assignment
 
 {% if site.data.assignment.slides %}* [Presentation Slides][slides]{% endif %}  
 {% if site.data.assignment.template %}* [Submission Template][template]{% endif %}
-* The original [][mda-paper] from 2004.
+* The original [MDA: A Formal Approach to Game Design and Game Research][mda-paper] from 2004.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 

@@ -31,7 +31,7 @@ Submit the document as usual.
 ## Resources
 
 * [Presentation Slides][slides]
-* The original [MDA: A Formal Approach to Game Design and Game Research](https://www.cs.northwestern.edu/~hunicke/MDA.pdf) paper from 2004.
+* The original [MDA: A Formal Approach to Game Design and Game Research]({{site.data.assignment.mda-paper}}) paper from 2004.
 
 
 ## Notes

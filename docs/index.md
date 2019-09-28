@@ -4,7 +4,7 @@ layout: tabbed-assignment
 
 # Overview
 
-<img class="overview-image" src="assets/images/screen-capture.png">
+<img class="overview-image" src="assets/images/mda-framework.png">
 
 Describe what students will be doing and provide, or expand upon, the assignment outcome.
 

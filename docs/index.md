@@ -8,7 +8,7 @@ layout: tabbed-assignment
 
 The **[Mechanics, Dynamics, Aesthetics][mda-wikipedia]** (MDA) framework is one of the early (2004) attempts to develop a theory of game design.
 
-We will practice on the classic version of Tic-Tac-Toe and then you will create an MDA chart for your modified version of Tic-Tac-Toe using the [template][].
+We will the framework by creating an MDA chart as we analyze the classic version of Tic-Tac-Toe. Then you will make a proposal for a version of Tic-Tac-Toe with new **mechanics** that attempt to address the **aesthetic** problems of the orignal.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 

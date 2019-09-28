@@ -2,6 +2,7 @@
 #
 # If not empty, display the text at the top of the page (or wherever the template does the include of outcome.html)
 # below the tabes
+mda-paper: https://www.cs.northwestern.edu/~hunicke/MDA.pdf
 mda-wikipedia: https://en.wikipedia.org/wiki/MDA_framework
 outcome:   
 slides: https://docs.google.com/presentation/d/1R0KdxhVw9DITzYugEwiwsXHXqnXJP9Yto32gNltBrOE/edit?usp=sharing
